@@ -113,8 +113,9 @@ export default function BirthdayPage() {
         onPause={() => setIsPlaying(false)}
         className="hidden"
       >
-        <source src="public/illbe.mp3" type="audio/mpeg" />
+        <source src="/illbe.mp3" type="audio/mpeg" />
       </audio>
+
 
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center px-4 relative overflow-hidden">
