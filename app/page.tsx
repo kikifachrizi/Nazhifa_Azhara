@@ -154,13 +154,13 @@ export default function BirthdayPage() {
               </div>
               <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed">
                 <p className="font-handwriting text-lg md:text-xl text-center italic">
-                  "Aku tau kamu cuek dan gak suka drama,
+                  "Orang yg paling spesial di hidup akuuuu,
                   <br />
-                  Tapi aku juga tau, kamu orang paling peduli walau gak ngomong.
+                  Orang yang paling gengsian, ngomong "mau" aja mikir 10x.
                   <br />
-                  Terima kasih ya, udah bertahan 7 bulan sama orang kayak aku.
+                  Terima kasih yaaaaa , udah mau sama akuuuu
                   <br />
-                  Tahun ini semoga kamu makin bahagia, aku temenin terus sampai kapanpun kamu mau…"
+                  Tahun ini semoga kamu makin bahagia,lancar semua kegiatannya, diberkahi dan diridhai, aku temenin terus sampai kapanpun kamu mau…"
                 </p>
               </div>
               <div className="text-center mt-8">
