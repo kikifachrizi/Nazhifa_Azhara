@@ -73,7 +73,7 @@ export default function BirthdayPage() {
     { id: 8, img: "15.jpeg", caption: "waktu itu kyanya kita malem malem lgi ngerjain TIFA, tpi lagi gabut dan kyanya hujan diluar, asik bgt gangguin km selfie selfie random wkwk" },
     { id: 9, img: "29.jpeg", caption: "cieee bajunya samaan tonenya, lucu bgt awal awal kita handle tim TIFA bareng malah berakhir jadian, di nasi padang lagi hehe" },
     { id: 10, img: "31.jpeg", caption: "Inget momen ini tuh kerasa ga nyangka samsek, dulu kita seproffesional itu, sampe pulang aku gamau nganter, tapi skrng bisa selengket ini sm kamu haha" },
-    { id: 11, img: "33.jpeg", caption: "Masih inget ga kamu momen ini, disitu yg km bilang iman km mulai lemah, tapi POV aku , aku udah mulai modus dan nyaman sm km haha , momen km nemenin aku riset product pdhl km bukan siapa siapa aku" },
+    { id: 11, img: "33.jpeg", caption: "Masih inget ga kamu momen ini, disitu yg km bilang pendirian km mulai goyah, tapi POV aku , aku udah mulai modus dan nyaman sm km haha , momen km nemenin aku riset product pdhl km bukan siapa siapa aku" },
     { id: 32, img: "32.jpeg", caption: "jujur mngkin kamu ngerasa b aja ya, tpi aku bangga bgt, diwaktu km apply2 kerja tpi kamu pakai waktu luang km buat nyoba nyoba hal baru, kamu tau ga sih sebangga apa aku sm kamu hahaha" },
   ]
 
@@ -158,7 +158,7 @@ export default function BirthdayPage() {
       <section className="py-20 px-4 fade-section opacity-0 transition-all duration-1000">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-700 mb-4">Our Story Gallery</h2>
-          <p className="text-center text-gray-600 mb-12 italic">Bukan sepenuhnya cerita tentang kita, tapi kenangan - kenangan ini terlalu manis, jadi aku pengen galeriin biar bisa diliar bareng hehe 📖</p>
+          <p className="text-center text-gray-600 mb-12 italic">Bukan sepenuhnya cerita tentang kita, tapi kenangan - kenangan ini terlalu manis, jadi aku pengen galeriin biar bisa diliat bareng hehe 📖</p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {storyPhotos.map((photo) => (
