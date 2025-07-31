@@ -89,6 +89,14 @@ export default function BirthdayPage() {
       id: 6,
       caption: "Waktu kamu tidur di mobil, aku foto diam-diam. Kamu kesel banget pas tau, tapi lucuu 😴",
     },
+        {
+      id: 7,
+      caption: "Waktu kamu tidur di mobil, aku foto diam-diam. Kamu kesel banget pas tau, tapi lucuu 😴",
+    },
+        {
+      id: 8,
+      caption: "Waktu kamu tidur di mobil, aku foto diam-diam. Kamu kesel banget pas tau, tapi lucuu 😴",
+    },
   ]
 
   return (
@@ -115,7 +123,7 @@ export default function BirthdayPage() {
       >
         <source src="/illbe.mp3" type="audio/mpeg" />
       </audio>
-
+      
 
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center px-4 relative overflow-hidden">
